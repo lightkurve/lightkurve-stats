@@ -74,7 +74,8 @@ def make_readme(md, path='README.md'):
     n = text_file.write(readme_str)
     text_file.close()
 
-def make_plot(df : pd.DataFrame, path='out/lightkurve-publications.png'):
+def make_plot(df : pd.DataFrame, 
+path='out/lightkurve-publications.png'):
     """Generates and saves a lightkurve publications plot
 
     Args:
@@ -85,16 +86,20 @@ def make_plot(df : pd.DataFrame, path='out/lightkurve-publications.png'):
     x = pd.date_range('2018-01-01T00:00:00Z', df.date.max(), freq='1M')
     y = [len(df[df.date < d]) for d in x]
 
+    plot_color = '#777'
     fig, ax = plt.subplots(figsize=[9, 5])
-    ax.plot(x, y, marker='o', c='k')
-    ax.set_xlabel('Year', fontsize=12)
-    ax.set_ylabel("Publications", fontsize=12)
+    ax.plot(x, y, marker='o', c=plot_color)
+    ax.set_xlabel('Year', fontsize=15, c=plot_color)
+    ax.set_ylabel("Publications", fontsize=15, c=plot_color)
     locator = mdates.AutoDateLocator(minticks=3, maxticks=7)
     formatter = mdates.ConciseDateFormatter(locator)
     ax.xaxis.set_major_locator(locator)
     ax.xaxis.set_major_formatter(formatter)
 
-    plt.savefig(path)
+    ax.tick_params(color=plot_color, labelcolor=plot_color)
+    for spine in ax.spines.values():
+        spine.set_edgecolor(plot_color)
+    plt.savefig(path, transparent=True)
     plt.close()
 
 if __name__ == '__main__':
