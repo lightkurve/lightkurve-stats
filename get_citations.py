@@ -66,7 +66,7 @@ def make_readme(md, path='README.md'):
     readme_str = f'''
 <h1>Lightkurve statistics</h1>
 
-![publications](lightkurve-publications.png)  
+![publications](out/lightkurve-publications.png)  
 
 {md}
     '''
