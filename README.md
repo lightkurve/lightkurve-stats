@@ -1,7 +1,7 @@
 
 <h1>Lightkurve statistics</h1>
 
-![publications](lightkurve-publications.png)  
+![publications](out/lightkurve-publications.png)  
 
 |    | Date       | Title                                                                                                                                                                                 | Author     |
 |---:|:-----------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------|
