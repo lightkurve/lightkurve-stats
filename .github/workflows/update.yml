@@ -8,9 +8,6 @@ on:
   # We always want to run tests on main
   schedule:
     - cron: '0 0 * * 1' # At 00:00 on Monday
-  push:
-    branches:
-      - main
   # And we'll also run tests on pull requests
   pull_request:
 
