@@ -4,7 +4,12 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from ads_fields import FIELDS
 
-def query_ads():
+def query_ads() -> pd.DataFrame:
+    """Queries NASA ADS for papers referencing lightkurve
+
+    Returns:
+        pd.DataFrame: Output statistics
+    """
     qry = ads.SearchQuery(q='full:"lightkurve" AND year:2017-2050', rows=999999, fl=FIELDS)
     papers = [q for q in qry ]
 
@@ -30,7 +35,15 @@ def query_ads():
 
     return df
 
-def make_recent_table(df):
+def make_recent_table(df) -> pd.DataFrame:
+    """Formats and makes a nice table of the 5 most recent papers which cite lightkurve
+
+    Args:
+        df (_type_): Input statistics
+
+    Returns:
+        pd.DataFrame: Output table of most recent papers
+    """
     # Save raw stats
     df.to_csv('stats.csv')
 
@@ -46,6 +59,12 @@ def make_recent_table(df):
     return recent_table
 
 def make_readme(md, path='README.md'):
+    """Makes a readme file containing the publications plot and recent papers
+
+    Args:
+        md (_type_): markdown to include
+        path (str, optional): output path. Defaults to 'README.md'.
+    """
     readme_str = f'''
     <h1>Lightkurve statistics</h1>
     
@@ -57,25 +76,34 @@ def make_readme(md, path='README.md'):
     n = text_file.write(readme_str)
     text_file.close()
 
-def make_plot(df, path='out/lightkurve-publications.png'):
+def make_plot(df : pd.DataFrame, path='out/lightkurve-publications.png'):
+    """Generates and saves a lightkurve publications plot
+
+    Args:
+        df (pd.DataFrame): Statistics table
+        path (str, optional): output path. Defaults to 'out/lightkurve-publications.png'.
+    """
     # Make a plot
     x = pd.date_range('2018-01-01T00:00:00Z', df.date.max(), freq='1M')
     y = [len(df[df.date < d]) for d in x]
 
     fig, ax = plt.subplots(figsize=[9, 5])
-    plt.plot(x, y, marker='o', c='k')
-    plt.xlabel('Year', fontsize=12)
-    plt.ylabel("Publications", fontsize=12)
+    ax.plot(x, y, marker='o', c='k')
+    ax.set_xlabel('Year', fontsize=12)
+    ax.set_ylabel("Publications", fontsize=12)
     locator = mdates.AutoDateLocator(minticks=3, maxticks=7)
     formatter = mdates.ConciseDateFormatter(locator)
     ax.xaxis.set_major_locator(locator)
     ax.xaxis.set_major_formatter(formatter)
+
     plt.savefig(path)
     plt.close()
 
 if __name__ == '__main__':
+    # Query ADS
     df = query_ads()
-    # Save entire table
+
+    # Save entire statistics table
     df.to_csv('out/statistics.csv')
 
     # get recent publications
