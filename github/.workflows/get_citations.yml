@@ -35,7 +35,7 @@ jobs:
       - name: execute py script # run main.py
         env:
           ADS_DEV_KEY: ${{ secrets.ADS_KEY }}
-        run: python citations.py
+        run: python get_citations.py # generates readme and lightkurve usage plot
           
       - name: commit files
         run: |
