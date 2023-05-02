@@ -64,11 +64,11 @@ def make_readme(md, path='README.md'):
         path (str, optional): output path. Defaults to 'README.md'.
     """
     readme_str = f'''
-    <h1>Lightkurve statistics</h1>
-    
-    ![publications](lightkurve-publications.png)  
-    
-    {md}
+<h1>Lightkurve statistics</h1>
+
+![publications](lightkurve-publications.png)  
+
+{md}
     '''
     text_file = open(path, "w")
     n = text_file.write(readme_str)
