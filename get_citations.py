@@ -44,8 +44,6 @@ def make_recent_table(df) -> pd.DataFrame:
     Returns:
         pd.DataFrame: Output table of most recent papers
     """
-    # Save raw stats
-    df.to_csv('stats.csv')
 
     ## Make a markdown table
     most_recent = df.sort_values('date', ascending=False).head(5)
