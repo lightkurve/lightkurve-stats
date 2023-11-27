@@ -3,11 +3,11 @@
 
 ![publications](out/lightkurve-publications.png)  
 
-|    | Date       | Title                                                                                                                                                                              | Author        |
-|---:|:-----------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------|
-|  0 | 2024-04-01 | [Discovery of four new EL CVn-type binaries in the Gaia eclipsing binaries](https://ui.adsabs.harvard.edu/abs/2024NewA..10702153P/abstract)                                        | Peng, Y       |
-|  2 | 2024-01-01 | [Three young planets around the K-dwarf K2-198: high-energy environment, evaporation history, and expected future](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527..374K/abstract) | Ketzer, L     |
-|  3 | 2024-01-01 | [A new look at the YY CrB binary system](https://ui.adsabs.harvard.edu/abs/2024NewA..10502112S/abstract)                                                                           | Soomandar, S  |
-|  4 | 2024-01-01 | [Not-so-fast Kepler-1513: a perturbing planetary interloper in the exomoon corridor](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527..620Y/abstract)                               | Yahalomi, D   |
-|  5 | 2024-01-01 | [A 1.55 R<SUB>⊕</SUB> habitable-zone planet hosted by TOI-715, an M4 star near the ecliptic South Pole](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527...35D/abstract)            | Dransfield, G |
+|    | Date       | Title                                                                                                                                                                              | Author    |
+|---:|:-----------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------|
+|  0 | 2024-04-01 | [The contact binary system TYC 7275-1968-1 as seen by optical, UV and X-ray observations](https://ui.adsabs.harvard.edu/abs/2024NewA..10702145L/abstract)                          | Lima, I   |
+|  1 | 2024-04-01 | [Discovery of four new EL CVn-type binaries in the Gaia eclipsing binaries](https://ui.adsabs.harvard.edu/abs/2024NewA..10702153P/abstract)                                        | Peng, Y   |
+|  2 | 2024-01-01 | [WD 0141-675: a case study on how to follow-up astrometric planet candidates around white dwarfs](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527..977R/abstract)                  | Rogers, L |
+|  4 | 2024-01-01 | [Three young planets around the K-dwarf K2-198: high-energy environment, evaporation history, and expected future](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527..374K/abstract) | Ketzer, L |
+|  5 | 2024-01-01 | [Unveiling δ Scuti and γ Doradus hybrid pulsation of HD 53166 and HD 53349 plus rich frequencies in HD 52788](https://ui.adsabs.harvard.edu/abs/2024NewA..10502081Z/abstract)      | Zhou, A   |
     
