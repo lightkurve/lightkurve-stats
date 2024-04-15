@@ -3,11 +3,11 @@
 
 ![publications](out/lightkurve-publications.png)  
 
-|    | Date       | Title                                                                                                                                                                                                                                   | Author       |
-|---:|:-----------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------|
-|  0 | 2024-04-01 | [Discovery of four new EL CVn-type binaries in the Gaia eclipsing binaries](https://ui.adsabs.harvard.edu/abs/2024NewA..10702153P/abstract)                                                                                             | Peng, Y      |
-|  8 | 2024-04-01 | [Measuring White Dwarf Variability from Sparsely Sampled Gaia DR3 Multi-Epoch Photometry](https://ui.adsabs.harvard.edu/abs/2024arXiv240402201S/abstract)                                                                               | Steen, M     |
-|  1 | 2024-04-01 | [The TESS-Keck Survey. XII. A Dense 1.8 R <SUB>⊕</SUB> Ultra-short-period Planet Possibly Clinging to a High-mean-molecular-weight Atmosphere after the First Gigayear](https://ui.adsabs.harvard.edu/abs/2024AJ....167..153R/abstract) | Rubenzahl, R |
-| 13 | 2024-04-01 | [Confirming the Warm and Dense Sub-Saturn TIC 139270665 b with the Automated Planet Finder and Unistellar Citizen Science Network](https://ui.adsabs.harvard.edu/abs/2024AJ....167..170P/abstract)                                      | Peluso, D    |
-| 12 | 2024-04-01 | [Characterization of K2-167 b and CALM, a new stellar activity mitigation method](https://ui.adsabs.harvard.edu/abs/2024MNRAS.529.1047D/abstract)                                                                                       | de Beurs, Z  |
+|    | Date       | Title                                                                                                                                                                                          | Author    |
+|---:|:-----------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------|
+|  0 | 2024-05-01 | [Methods for the Detection of Stellar Rotation Periods in Individual TESS Sectors and Results from the Prime Mission](https://ui.adsabs.harvard.edu/abs/2024AJ....167..189C/abstract)          | Colman, I |
+|  2 | 2024-05-01 | [Spectroscopic Follow-up on Potential Magnetic Cataclysmic Variables](https://ui.adsabs.harvard.edu/abs/2024AJ....167..186S/abstract)                                                          | Szkody, P |
+|  3 | 2024-05-01 | [The TESS-Keck Survey. XVIII. A Sub-Neptune and Spurious Long-period Signal in the TOI-1751 System](https://ui.adsabs.harvard.edu/abs/2024AJ....167..194D/abstract)                            | Desai, A  |
+|  1 | 2024-05-01 | [The Epoch of Giant Planet Migration Planet Search Program. II. A Young Hot Jupiter Candidate around the AB Dor Member HS Psc](https://ui.adsabs.harvard.edu/abs/2024AJ....167..193T/abstract) | Tran, Q   |
+| 15 | 2024-04-01 | [A born ultramassive white dwarf-hot subdwarf super-Chandrasekhar candidate](https://ui.adsabs.harvard.edu/abs/2024arXiv240404835L/abstract)                                                   | Luo, C    |
     
