@@ -3,11 +3,11 @@
 
 ![publications](out/lightkurve-publications.png)  
 
-|    | Date       | Title                                                                                                                                                                                                                          | Author          |
-|---:|:-----------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------|
-|  0 | 2024-10-01 | [Resolving the pulsation contents of 13 <mml:math altimg="si24.svg" display="inline" id="d1e14240"><mml:mi>δ</mml:mi></mml:math> Scuti stars with TESS and K2](https://ui.adsabs.harvard.edu/abs/2024NewA..11102235Z/abstract) | Zhou, A         |
-|  1 | 2024-07-01 | [TESS Giants Transiting Giants. IV. A Low-density Hot Neptune Orbiting a Red Giant Star](https://ui.adsabs.harvard.edu/abs/2024AJ....168....1G/abstract)                                                                       | Grunblatt, S    |
-| 29 | 2024-06-01 | [Rotational Variability and Detection of Superflares in a Young Brown Dwarf by TESS](https://ui.adsabs.harvard.edu/abs/2024BSRSL..93..370K/abstract)                                                                           | Kumbhakar, R    |
-| 22 | 2024-06-01 | [The largest metallicity difference in twin systems: high-precision abundance analysis of the benchmark pair Krios &amp; Kronos](https://ui.adsabs.harvard.edu/abs/2024arXiv240606705M/abstract)                               | Miquelarena, P  |
-| 23 | 2024-06-01 | [SDSS1335+0728: The awakening of a $\sim 10^6 M_{\odot}$ black hole](https://ui.adsabs.harvard.edu/abs/2024arXiv240611983S/abstract)                                                                                           | Sanchez-Saez, P |
+|    | Date       | Title                                                                                                                                                                                         | Author       |
+|---:|:-----------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------|
+|  0 | 2024-10-01 | [Resolving the pulsation contents of 13 δ Scuti stars with TESS and K2](https://ui.adsabs.harvard.edu/abs/2024NewA..11102235Z/abstract)                                                       | Zhou, A      |
+|  3 | 2024-07-01 | [TESS Giants Transiting Giants. IV. A Low-density Hot Neptune Orbiting a Red Giant Star](https://ui.adsabs.harvard.edu/abs/2024AJ....168....1G/abstract)                                      | Grunblatt, S |
+|  1 | 2024-07-01 | [HIP 65426 is a High-frequency Delta Scuti Pulsator in Plausible Spin–Orbit Alignment with its Directly Imaged Exoplanet](https://ui.adsabs.harvard.edu/abs/2024AJ....168...13S/abstract)     | Sepulveda, A |
+|  2 | 2024-07-01 | [Fundamental effective temperature measurements for eclipsing binary stars - V. The circumbinary planet system EBLM J0608-59](https://ui.adsabs.harvard.edu/abs/2024MNRAS.531.4577M/abstract) | Maxted, P    |
+| 37 | 2024-06-01 | [The Fundamental Parameters and Evolutionary Status of V454 Aurigae](https://ui.adsabs.harvard.edu/abs/2024PARep...2...18Y/abstract)                                                          | Yucel, G     |
     
