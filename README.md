@@ -3,11 +3,11 @@
 
 ![publications](out/lightkurve-publications.png)  
 
-|    | Date       | Title                                                                                                                                                                                                              | Author             |
-|---:|:-----------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
-|  0 | 2024-10-01 | [Resolving the pulsation contents of 13 δ Scuti stars with TESS and K2](https://ui.adsabs.harvard.edu/abs/2024NewA..11102235Z/abstract)                                                                            | Zhou, A            |
-| 11 | 2024-07-01 | [The TROY project III. Exploring co-orbitals around low-mass stars](https://ui.adsabs.harvard.edu/abs/2024arXiv240704677B/abstract)                                                                                | Balsalobre-Ruza, O |
-|  1 | 2024-07-01 | [TESS observations of non-Be fast rotators](https://ui.adsabs.harvard.edu/abs/2024arXiv240708305N/abstract)                                                                                                        | Naze, Y            |
-| 19 | 2024-07-01 | [An infrared census of R Coronae Borealis Stars II -- Spectroscopic classifications and implications for the rate of low-mass white dwarf mergers](https://ui.adsabs.harvard.edu/abs/2024arXiv240708653K/abstract) | Karambelkar, V     |
-| 18 | 2024-07-01 | [Eight new 2+2 doubly eclipsing quadruple systems detected](https://ui.adsabs.harvard.edu/abs/2024A&A...687A...6Z/abstract)                                                                                        | Zasche, P          |
+|    | Date       | Title                                                                                                                                                                | Author       |
+|---:|:-----------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------|
+|  0 | 2024-10-01 | [Resolving the pulsation contents of 13 δ Scuti stars with TESS and K2](https://ui.adsabs.harvard.edu/abs/2024NewA..11102235Z/abstract)                              | Zhou, A      |
+|  2 | 2024-08-01 | [Exoplanet Aeronomy: A Case Study of WASP-69 b's Variable Thermosphere](https://ui.adsabs.harvard.edu/abs/2024AJ....168...65L/abstract)                              | Levine, W    |
+|  3 | 2024-08-01 | [TOpI-2447 b / NGTS-29 b: a 69-day Saturn around a Solar analogue](https://ui.adsabs.harvard.edu/abs/2024MNRAS.532.1444G/abstract)                                   | Gill, S      |
+|  4 | 2024-08-01 | [Evolution of Flare Activity in GKM Stars Younger Than 300 Myr over Five Years of TESS Observations](https://ui.adsabs.harvard.edu/abs/2024AJ....168...60F/abstract) | Feinstein, A |
+|  5 | 2024-08-01 | [Early Results from the HUMDRUM Survey: A Small, Earth-mass Planet Orbits TOI-1450A](https://ui.adsabs.harvard.edu/abs/2024AJ....168...67B/abstract)                 | Brady, M     |
     
