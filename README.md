@@ -3,11 +3,11 @@
 
 ![publications](out/lightkurve-publications.png)  
 
-|    | Date       | Title                                                                                                                                                                                                         | Author       |
-|---:|:-----------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------|
-|  0 | 2025-07-01 | [Orbital period study of two contact W UMa-type contact binaries: V551 Dra and CN Hyi](https://ui.adsabs.harvard.edu/abs/2025NewA..11702357T/abstract)                                                        | Tang, X      |
-|  7 | 2025-03-01 | [An SS433 flare caught by TESS. Fast rise times and evidence for a 13 hours quasi-period](https://ui.adsabs.harvard.edu/abs/2025arXiv250302753W/abstract)                                                     | Waisberg, I  |
-|  1 | 2025-03-01 | [TESS Hunt for Young and Maturing Exoplanets (THYME). XII. A Young Mini-Neptune on the Upper Edge of the Radius Valley in the Hyades Cluster](https://ui.adsabs.harvard.edu/abs/2025AJ....169..166D/abstract) | Distler, A   |
-| 10 | 2025-03-01 | [A new method for studying the blazar variability on the shortest time scales and its application to S5 1803+784](https://ui.adsabs.harvard.edu/abs/2025JHEAp..45...19B/abstract)                             | Butuzova, M  |
-|  9 | 2025-03-01 | [Testing the wavelength dependence of oscillations and granulation in red giants using Kepler and TESS](https://ui.adsabs.harvard.edu/abs/2025MNRAS.537.3265S/abstract)                                       | Sreenivas, K |
+|    | Date       | Title                                                                                                                                                                                                | Author    |
+|---:|:-----------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------|
+|  0 | 2025-07-01 | [Orbital period study of two contact W UMa-type contact binaries: V551 Dra and CN Hyi](https://ui.adsabs.harvard.edu/abs/2025NewA..11702357T/abstract)                                               | Tang, X   |
+| 12 | 2025-03-01 | [Modeling Asteroseismic Yields for the Roman Galactic Bulge Time-Domain Survey](https://ui.adsabs.harvard.edu/abs/2025arXiv250304999W/abstract)                                                      | Weiss, T  |
+| 22 | 2025-03-01 | [Dynamic Photometric Variability in Three Young Brown Dwarfs in Taurus: Detection of Optical Flares with TESS Data](https://ui.adsabs.harvard.edu/abs/2025ApJ...981...75G/abstract)                  | Ghosh, S  |
+| 21 | 2025-03-01 | [Evidence for Primordial Alignment II: Insights from Stellar Obliquity Measurements for Hot Jupiters in Compact Multiplanet Systems](https://ui.adsabs.harvard.edu/abs/2025AJ....169..189R/abstract) | Radzom, B |
+| 20 | 2025-03-01 | [Asteroseismology of the red giant companions to Gaia BH2 and BH3](https://ui.adsabs.harvard.edu/abs/2025arXiv250309690H/abstract)                                                                   | Hey, D    |
     
