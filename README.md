@@ -5,9 +5,9 @@
 
 |    | Date       | Title                                                                                                                                                                                     | Author     |
 |---:|:-----------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------|
-|  0 | 2027-01-01 | [Detection of quasi-periodic pulsations in solar flares based on a ResNet-Transformer hybrid model](https://ui.adsabs.harvard.edu/abs/2027A&C....5801193H/abstract)                       | Hu, W      |
-|  1 | 2026-12-01 | [GSC 08227-00723: An AH Pic-type System with an Unusually Large Positive Superhump Excess—Implications for Tidal Effects](https://ui.adsabs.harvard.edu/abs/2026RAA....26l5012L/abstract) | Li, X      |
-|  2 | 2026-11-01 | [TIC 197757000: An Eclipsing Binary System Containing a δ Scuti-type Pulsating Star with Tidal Synchronization](https://ui.adsabs.harvard.edu/abs/2026RAA....26k5001Y/abstract)           | Yaqup, S   |
-|  4 | 2026-11-01 | [Assessing the Impact of High-resolution Imaging on Statistical Validation of TESS Planet Candidates](https://ui.adsabs.harvard.edu/abs/2026AJ....172..247C/abstract)                     | Collier, M |
-|  5 | 2026-11-01 | [The Discovery of K2-232c: Divergent Formation Histories for Hot and Warm Jupiters Based on Outer Companion Eccentricity](https://ui.adsabs.harvard.edu/abs/2026AJ....172..254R/abstract) | Ranshaw, J |
+|  0 | 2027-01-01 | [Magnetic activity, flares and asynchronous spot modulation, in the detached eclipsing binary KOI 6832](https://ui.adsabs.harvard.edu/abs/2027NewA..13002673T/abstract)                   | Tac, E     |
+|  1 | 2027-01-01 | [Detection of quasi-periodic pulsations in solar flares based on a ResNet-Transformer hybrid model](https://ui.adsabs.harvard.edu/abs/2027A&C....5801193H/abstract)                       | Hu, W      |
+|  2 | 2026-12-01 | [GSC 08227-00723: An AH Pic-type System with an Unusually Large Positive Superhump Excess—Implications for Tidal Effects](https://ui.adsabs.harvard.edu/abs/2026RAA....26l5012L/abstract) | Li, X      |
+|  8 | 2026-11-01 | [Rescuing Kepler's False Positives: A Possible Habitable Zone Exoplanet in the Triple-star System KOI-1623](https://ui.adsabs.harvard.edu/abs/2026AJ....172..258W/abstract)               | Wang, R    |
+| 12 | 2026-11-01 | [Assessing the Impact of High-resolution Imaging on Statistical Validation of TESS Planet Candidates](https://ui.adsabs.harvard.edu/abs/2026AJ....172..247C/abstract)                     | Collier, M |
     
